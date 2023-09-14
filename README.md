@@ -21,7 +21,7 @@
 
 <hr/>
 
-- Register
+- ### Register
 
 <hr/>
 
@@ -29,7 +29,7 @@
 
 <hr/>
 
-- Select a active person
+- ### Select an active person
 
 <hr/>
 
@@ -37,17 +37,18 @@
 
 <hr/>
 
-- Real-time Live Chat
+- ### Real-time Live Chat
 
 <hr/>
 
-![Live Chat](/src/assets/LiveChat.png)
+![Live Chat](/assets/LiveChat.png)
 
 <hr/>
 
 ## 🎇 Contributing
 
 If you find bugs with this project, pull requests are always welcome. You can [create an issue here](https://github.com/ShwetKhatri2001/ChatFellow/issues/new).
+
 Your :star: is also greatly appreciated.
 
 [Checkout my GitHub profile to find more awesome projects](https://github.com/ShwetKhatri2001)
