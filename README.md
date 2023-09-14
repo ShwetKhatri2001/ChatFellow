@@ -1,4 +1,4 @@
-# 🐱‍💻ChatFellow
+# 💬 ChatFellow
 
 - Hi 👋 Shwet here, Welcome to ChatFellow !
 - Its a Real time Chat Application built using PHP with MySQL & JavaScript
