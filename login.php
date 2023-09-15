@@ -22,14 +22,14 @@
           <i class="fas fa-eye"></i>
         </div>
         <div class="field button">
-          <input type="submit" name="submit" value="Continue to Chat">
+          <input type="submit" name="submit" value="Keep the Chat Alive">
         </div>
       </form>
       <div class="link">Not yet signed up? <a href="index.php">Signup now</a></div>
     </section>
   </div>
   
-  <script src="javascript/pass-show-hide.js"></script>
+  <script src="javascript/utils.js"></script>
   <script src="javascript/login.js"></script>
 
 </body>

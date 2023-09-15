@@ -32,18 +32,21 @@
           <i class="fas fa-eye"></i>
         </div>
         <div class="field image">
-          <label>Select Image</label>
-          <input type="file" name="image" accept="image/x-png,image/gif,image/jpeg,image/jpg" required>
+          <label>Display Image</label>
+          <label for="file-upload" class="custom-file-upload">
+            <i class="fa fa-upload" aria-hidden="true"></i> Upload
+          </label>
+          <input id="file-upload" type="file" name="image" accept="image/x-png,image/gif,image/jpeg,image/jpg" required>
         </div>
         <div class="field button">
-          <input type="submit" name="submit" value="Continue to Chat">
+          <input type="submit" name="submit" value="Keep the Chat Alive">
         </div>
       </form>
       <div class="link">Already signed up? <a href="login.php">Login now</a></div>
     </section>
   </div>
 
-  <script src="javascript/pass-show-hide.js"></script>
+  <script src="javascript/utils.js"></script>
   <script src="javascript/signup.js"></script>
 
 </body>
